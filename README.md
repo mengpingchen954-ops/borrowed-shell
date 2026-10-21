@@ -1,5 +1,7 @@
 # 借壳 / Borrowed Shell
 
+**[直接试玩](https://mengpingchen954-ops.github.io/borrowed-shell/)** · [构建与部署](https://github.com/mengpingchen954-ops/borrowed-shell/actions)
+
 原创科幻潜入动作解谜游戏的 **PC 浏览器可玩版**。Three.js 负责 2D 俯视渲染，Vite 构建，所有规则与音效在浏览器本地运行，无后端、无真实 AI 服务。
 
 你是一段逃亡意识。借用清洁、搬运与安保机体，潜入设施救出被囚禁的“织光”，再抵达撤离升降台。
